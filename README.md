@@ -39,7 +39,7 @@ Pictures of the project working.
 | Name                    | Email                                                               | Github                                                       | Role      |
 | ----------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------ | --------- |
 |Diego Prado Chapa | [diegochapa01@live.com](mailto:diegochapa01@live.com) | [@DiegoPrado27](https://github.com/DiegoPrado27) |Electronic |
-|  | [](mailto:) | [](https://github.com/) | Result data decoding |
+|Juan Carlos Segovia | [jcsegovia126@gmail.com](mailto:jcsegovia126@gmail.com) | Result data decoding |
 |  | [](mailto:) | [](https://github.com/) | Path finding |
 |  | [](mailto:) | [](https://github.com/) | Mechanics |
 
